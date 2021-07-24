@@ -1,5 +1,5 @@
 - Chiru
-- real.chiru@gmail.com
+- Chiru#2424 | Discord
 - Cats
 - Programing
 - Unity
